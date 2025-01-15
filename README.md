@@ -2,9 +2,6 @@
 
 👋 Welcome to my GitHub! Here, I share projects as I dive into Data Science and Machine Learning.  
 
-📍 **Location:** Ankara, Turkey  
-🔗 **GitHub:** [giulerg](https://github.com/giulerg)  
-
 ## 🎯 What’s Inside  
 
 - **📊 Data Analysis:** Extracting insights from raw data.  
