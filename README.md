@@ -1,4 +1,7 @@
 # 🚀 Data Science Journey: From Trainee to Expert
+## 📊 My GitHub Stats
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=giulerg&theme=radical&hide_border=true)
 
 Welcome to my corner of the internet! 👋 Here, you'll find a collection of my projects as I embark on my Data Science and Machine Learning journey. I’m currently a Data Science enthusiast, learning, experimenting, and building practical solutions to real-world problems. 
 
