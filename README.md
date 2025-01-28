@@ -8,14 +8,10 @@
 - **🔍 Machine Learning:** Building predictive models.  
 - **📈 Visualizations:** Interactive charts that tell data stories.  
 
-### 🔍 [Titanic Dataset - Cleaning & Visualization](https://github.com/giulerg/project1)  
-- Analyzing passenger data with cleanups and insights.  
+## 💼 My projects:  
 
-### 🚀 [Predicting House Prices](https://github.com/giulerg/project2)  
-- Linear and ridge regression for price prediction.  
-
-### 🤖 [First ML Model: Classification](https://github.com/giulerg/project3)  
-- Predicting customer purchase behavior.  
+### 🚢 [Titanic Survival Prediction](https://github.com/giulerg/Titanic)  
+- Performed data cleaning, visualized survival patterns, and built optimized machine learning models (Logistic Regression, Decision Tree, Random Forest) to predict Titanic passenger survival
 
 ## 💬 Let’s Connect!  
 Feedback or collaboration? Reach me on:  
